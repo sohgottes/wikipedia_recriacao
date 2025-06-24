@@ -1,19 +1,22 @@
-# Módulo 3 - Trilha HTML
+# 🌍 Recriando a Wikipédia – Segunda Guerra Mundial
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+Este projeto foi desenvolvido como parte do desafio prático da **Digital Innovation One (DIO)**, com o objetivo de recriar a experiência da Wikipédia com um layout mais moderno, acessível e visualmente agradável, usando HTML e CSS puro.
 
-## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
+## 📌 Tema escolhido
 
-## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
+O tema abordado foi a **Segunda Guerra Mundial (1939–1945)**, um dos maiores e mais impactantes conflitos da história da humanidade. O conteúdo é baseado em informações da Wikipédia e organizado em uma estrutura clara e navegável.
 
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
+---
 
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
+## 🔧 Tecnologias Utilizadas
 
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
+- HTML5 Semântico
+- CSS3 Moderno
+- Layout com Grid e responsividade
+- Ícones Font Awesome
+- Scroll suave com JavaScript
 
+---
+
+## 🧭 Estrutura do Projeto
 
